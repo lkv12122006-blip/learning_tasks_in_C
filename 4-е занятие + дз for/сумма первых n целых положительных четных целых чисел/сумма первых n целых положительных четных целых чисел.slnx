@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="сумма первых n целых положительных четных целых чисел/сумма первых n целых положительных четных целых чисел.vcxproj" Id="e17f3a7e-b2af-4a8b-a9e2-642b0e9f40cb" />
+</Solution>

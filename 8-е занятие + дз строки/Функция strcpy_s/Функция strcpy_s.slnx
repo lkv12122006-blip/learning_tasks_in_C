@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Функция strcpy_s/Функция strcpy_s.vcxproj" Id="c57a5ba8-ea68-41cb-992b-9e652344a024" />
+</Solution>

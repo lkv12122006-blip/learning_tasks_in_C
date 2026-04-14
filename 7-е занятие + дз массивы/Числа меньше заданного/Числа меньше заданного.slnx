@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Числа меньше заданного/Числа меньше заданного.vcxproj" Id="caceaedc-c782-429e-8357-44256d24eafc" />
+</Solution>

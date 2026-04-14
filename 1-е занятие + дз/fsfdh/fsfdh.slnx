@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fsfdh/fsfdh.vcxproj" Id="b5c4073d-16fb-4b10-97f4-2aef083d6e08" />
+</Solution>

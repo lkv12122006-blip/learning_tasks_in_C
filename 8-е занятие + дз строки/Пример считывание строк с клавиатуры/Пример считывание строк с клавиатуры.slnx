@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Пример считывание строк с клавиатуры/Пример считывание строк с клавиатуры.vcxproj" Id="92f6a99e-6113-417f-8a68-15adf3cc6a6a" />
+</Solution>

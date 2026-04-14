@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Високосный год/Високосный год.vcxproj" Id="c0f362be-49b9-4bd9-bb52-8d0abd587eb5" />
+</Solution>

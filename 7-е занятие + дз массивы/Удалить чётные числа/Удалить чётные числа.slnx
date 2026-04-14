@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Удалить чётные числа/Удалить чётные числа.vcxproj" Id="f9355694-d540-4368-a3b1-d89331131f9b" />
+</Solution>

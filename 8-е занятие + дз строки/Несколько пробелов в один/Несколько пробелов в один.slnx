@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Несколько пробелов в один/Несколько пробелов в один.vcxproj" />
+</Solution>

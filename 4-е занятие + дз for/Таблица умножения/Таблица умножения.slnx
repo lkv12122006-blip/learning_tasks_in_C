@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Таблица умножения/Таблица умножения.vcxproj" Id="f3f8b464-ed77-4dce-8b2f-59171bef47fd" />
+</Solution>

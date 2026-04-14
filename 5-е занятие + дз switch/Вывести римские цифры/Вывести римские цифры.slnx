@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Вывести римские цифры/Вывести римские цифры.vcxproj" />
+</Solution>

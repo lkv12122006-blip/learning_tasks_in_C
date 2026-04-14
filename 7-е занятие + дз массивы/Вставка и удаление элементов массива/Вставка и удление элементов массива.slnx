@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Вставка и удление элементов массива/Вставка и удление элементов массива.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Температура/Температура.vcxproj" Id="e47d541b-3ac9-4389-ae94-77cbcc2e70a9" />
+</Solution>

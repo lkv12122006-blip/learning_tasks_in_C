@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Меню с действиями/Меню с действиями.vcxproj" Id="b8a8285e-ac07-44cd-9b78-950927f4b455" />
+</Solution>

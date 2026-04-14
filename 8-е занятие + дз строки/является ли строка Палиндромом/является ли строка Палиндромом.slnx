@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="является ли строка Палиндромом/является ли строка Палиндромом.vcxproj" Id="7dbfbb89-bfc8-416a-a9c2-52492620de7b" />
+</Solution>

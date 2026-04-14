@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Наибольшее из 3 х чисел/Наибольшее из 3 х чисел.vcxproj" />
+</Solution>
