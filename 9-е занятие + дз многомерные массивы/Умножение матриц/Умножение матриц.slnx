@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Умножение матриц/Умножение матриц.vcxproj" Id="a9fc4e23-69a7-4aa1-9c47-35f5059f40aa" />
+</Solution>
